@@ -2,8 +2,8 @@ package com.ywa.virtualproxy;
 
 import java.util.List;
 
-import com.ywa.Company;
-import com.ywa.Employee;
+import com.ywa.virtualproxy.entity.Company;
+import com.ywa.virtualproxy.entity.Employee;
 import com.ywa.virtualproxy.interfaces.Contacts;
 import com.ywa.virtualproxy.proxy.ContactProxy;
 

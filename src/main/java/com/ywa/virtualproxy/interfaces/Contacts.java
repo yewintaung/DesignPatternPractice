@@ -2,7 +2,7 @@ package com.ywa.virtualproxy.interfaces;
 
 import java.util.List;
 
-import com.ywa.Employee;
+import com.ywa.virtualproxy.entity.Employee;
 
 public interface Contacts {
 

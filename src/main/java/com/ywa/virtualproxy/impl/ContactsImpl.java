@@ -3,7 +3,7 @@ package com.ywa.virtualproxy.impl;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.ywa.Employee;
+import com.ywa.virtualproxy.entity.Employee;
 import com.ywa.virtualproxy.interfaces.Contacts;
 
 public class ContactsImpl implements Contacts {

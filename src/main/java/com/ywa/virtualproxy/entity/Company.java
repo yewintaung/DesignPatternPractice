@@ -1,4 +1,4 @@
-package com.ywa;
+package com.ywa.virtualproxy.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
